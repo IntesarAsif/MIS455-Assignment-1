@@ -1,0 +1,102 @@
+
+
+.obama{
+    margin-left: 80px;
+    font-size: 25px;
+    color: #787D33;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.superstar{
+    margin-left: 100px;
+    display: flex;
+    justify-content: flex-start;
+    font-family: sans-serif;
+}
+.unorder{
+    color: rgba(44, 38, 38, 0.687);
+}
+.superman{
+    margin-left: 90px;
+    margin-top: -80px;
+    justify-content:center;
+    align-items: center;
+    width: 20%;
+    padding: 40px;
+    text-align: center;
+}
+
+.man{
+    margin-left: 290px;
+    margin-right: 100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 20%;
+    padding: 40px;
+    text-align: center;
+}
+.about{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.hey{
+    color: rgba(44, 38, 38, 0.687);
+}
+.what{
+    font-family: sans-serif;
+    margin-left: 80px;
+}
+.skill{
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+.ui{
+    margin: 10px;
+    width: 20%;
+    padding: 20px;   
+    border: 0.5px solid rgb(194, 194, 194); 
+}
+.ud{
+    color: rgba(44, 38, 38, 0.687);
+}
+.web{
+    margin: 10px;
+    width: 20%;
+    padding: 30px;
+    border: 0.5px solid rgb(194, 194, 194); 
+}
+.webd{
+    color: rgba(44, 38, 38, 0.687);
+}
+.app{
+    margin: 10px;
+    width: 20%;
+    padding: 20px;
+    border: 0.5px solid rgb(194, 194, 194); 
+}
+.appd{
+    color: rgba(44, 38, 38, 0.687);
+}
+#size{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+
+#secondpic{
+    width: 70%;
+}
+
+#design{
+    width: 20%;
+}
+#web{
+    width: 20%;
+}
+#app{
+    width: 20%;
+}
